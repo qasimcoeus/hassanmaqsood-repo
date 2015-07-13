@@ -1,0 +1,80 @@
+This is activity 1 to test and practice the given commands on life hacker web page.Following are the commands that have been tested on the bash-shell
+
+1: Ctrl + U: Clears the line from where the cursor is pointing back to the beginning.
+
+2: Ctrl + A: Moves the cursor to the beginning of the line.
+
+3: Ctrl + E: Moves the cursor to the end of the line.
+
+4: Ctrl + R: Allows you to search through the previous commands.
+
+5:alias show-a1='cat activity-1.txt' no need to write the whole command, alias can be made that works same.
+
+6:Up/Down Arrows
+
+7:Ctrl+Left and Ctrl+Right
+
+8:Home and End:
+
+9:Ctrl+K: This deletes the line from the position of the cursor to the end of the line.
+
+10:Ctrl+W: This deletes the word before the cursor only.
+
+11:Tab Auto-Complete
+
+12:cd .. running the following command will move you one folder up.
+
+13: cd - This will move you back to your last working directory:
+
+14: !! This will run your last used command with root privileges.
+
+15: !cat:p  If you just want to see what the last cat command was, you can instead run:
+
+16 cd !$: to change the directory without typing the arguments from the last command.
+
+17:^nanp^nano To fix the typo errors 
+
+18:history | grep nano To get all the commands that included nano, then command can be picked by using ( !455 ) number that we want to run from the list shown.
+
+19:mv /path/to/file.{txt,xml} If to rename just part of a filename.
+
+20:sudo cp /etc/rc.conf{,-old} To rename the rc.conf file with an old word appended at the end.
+
+21:mkdir myfolder{1,2,3} This will make three folders myfloder1,myfolder2 etc
+
+------------------------------------------------------------------------------VIM COMMANDS I HAVE PRACTICED ARE
+
+Note: These are the commands that run in command mode not in insertion mode
+
+1: h To move the cursor to the left
+2: l To move the cursor to the right.
+3: k To move the cursor to the up.
+4: j  To move the cursor to the down.
+5: gg go the first line.
+6: G go the last line.
+7: Ctrl + B move the page up.
+8: Ctrl + F move the page down.
+9: /command  searches the word command in the file in forward direction.
+10: ?command searched the word command in the file in backward direction.
+11: n To go the next occurence of search word. 
+12: N to back to the previous occurence of search word.
+13: dd to delete the current line.
+14: dnw to delete up to n spaces. 
+15: x delete a characte.
+16: [n]yy copy n  lines.
+17: u undo command.
+18: p paste below the current line.
+19: P paste the line above the current line.
+20: vim -o file1 file2 file3 to open the file vertically simultaneously.
+21: vim -O file1 file2 file3 to open the file horizontally simultaneously.
+---------------------------------------------------------------------------
+Commands that run in insert mode.
+
+1: Home To move at the start of the line.
+2: End To move at the end of the line. 
+3: i insert where the cursor is.
+4: I start from the beginning of line.
+5: o open a new line below current line.
+6: O open a new line above current line.
+7: :n to go the nth line.
+8: :$ to go the last line.
