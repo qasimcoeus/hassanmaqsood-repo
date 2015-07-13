@@ -1,0 +1,50 @@
+                                                             Assignment 3
+
+To: Zaki Shaheen
+From: Muhammad Hassan Maqsood
+Date: 10-July-2015
+Subject: Meeting with Team leads in Coeus Solutions 
+						
+Introduction
+
+The Purpose of writing this report is to give an overview of the session held between 2 team leads Younis Qazi (IOS) and. In this session, I was briefed about their previous projects experience, challenges they faced, tools and technologies that were used in making them followed by a question/answer session at the end. The team lead with whom the session was held with Younis Qazi and the things that were discussed comprises of the following agenda.
+
+* What are projects that have been led by you in last 6 months?
+      
+      Following were the projects that get completed in last 6 month duration:
+      
+1. Cleaner
+
+In this IOS application, the requirement was to send a push notification to the client who wants assistance of cleaner in the parking lots. The admin should know which parking slots are empty and which cleaners are available that can be assigned on request.
+
+2. LNPR
+
+LNPR stands for License Number Plate Recognition. It was a research and development project built in Open CV. the application recognizes the number plate number through i-phone camera. I-phone device is used to capture the image and then it gets through Tesserac-OCR that converts it into digital text and used further.
+
+* What were the challenges faced during the project? 
+
+The one common challenge being faced was of communication gap between developer and the PM. The other challenge was of recognition of characters in the LNPR project due to a circled sticker on the license plate. This problem was solved by using a circle remover code. In Cleaner project, client demanded to push the notification directly to the client instead of pushing it first to the Apple. So in order to meet the demand , the development was also done in Node JS and PHP.
+
+* What was the success ratio of the projects?
+
+The cleaner application was 100 % successful and got a very good feedback from the clients where as in LNPR due the research nature of project, its still in process and its modules are being improved for more accuracy in results. 
+
+* What were the tools that were used in projects?
+
+Tools that were used were XScope, Brackets, Git for maintain repository and Tesserac for OCR reading.  
+
+* How many team members participated in the projects?
+
+Team members comprises of 2 developers, a QA and a PM.
+
+* Which methodology was adopted for completing the projects?
+
+Agile methodology was used to complete the projects. The projects progress was being monitored by the PM on the monthly basis.
+
+   
+Due to the unavailability of other team lead, I wasn't ablt to interview them and put therir experience in this report.
+
+Conclusion:
+
+To sum up, meeting with the team lead Yunus Qazi proved to be very productive as it gave the insight to the previous workdone, challenges faced, tools that were used, methodaligies and norms applied on the projects. One main problem that was highlighted in the discussion was of communication gap between the team leads and the developers that some time created ambiguities or delays. At the end, I will summarize by saying that up till now the way of company's working with clients, quality control of products, business policies in both offices have been understood and I am looking forward to work with the company with passion and enthusiasm so that I can benefit to myself as well to the company.
+
